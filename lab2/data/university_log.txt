@@ -1,0 +1,4 @@
+Faculty 'fcim' created.
+Student 'mereacre pavel' added to faculty 'fcim'.
+Student 'pavel.mereacre@isa.utm.md' graduated.
+Student 'pavel.mereacre@isa.utm.md' graduated from 'fcim'.
